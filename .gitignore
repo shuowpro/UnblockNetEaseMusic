@@ -1,1 +1,6 @@
 **.swp
+node_modules/
+.venv/
+.dev.vars
+.wrangler/
+logs/
